@@ -132,3 +132,6 @@ EMAIL_HOST_USER='api'
 EMAIL_HOST_PASSWORD='d72d22aba1891e7c2325fa4f5e55347b'
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
+
+
+# http://localhost:8000/mail?email=cyrine.zahaar@gmail.com
